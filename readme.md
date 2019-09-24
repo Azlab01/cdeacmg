@@ -1,6 +1,6 @@
-#Eacmgcd
+## Eacmgcd
 
-## THIS IS A SIMPLE APP FOR SAVE CD COMMANDE, write in laravel (PHP)
+THIS IS A SIMPLE APP FOR SAVE CD COMMANDE, write in laravel (PHP)
 Using is simple  
  1 : create database 'eacmgcd'
  ##   in line comand run
